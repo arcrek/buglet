@@ -28,3 +28,18 @@ cls & echo. & echo BugLet script is running ... & echo.
 
 taskkill /IM Underground.exe /IM Underground.exe /F
 echo Killed Underground.exe Successfully & echo.
+
+taskkill /IM CoreTemp.exe /IM CoreTemp.exe /F
+echo Killed CoreTemp.exe Successfully & echo.
+
+taskkill /IM BarClientSafeCenter.exe /IM BarClientSafeCenter.exe /F
+echo Killed BarClientSafeCenter.exe Successfully & echo.
+
+taskkill /IM BarMonitor.exe /IM BarMonitor.exe /F
+echo Killed BarMonitor.exe Successfully & echo.
+
+taskkill /IM BarClientView.exe /IM BarClientView.exe /F
+echo Killed BarClientView.exe Successfully & echo.
+
+taskkill /IM CyberStation.exe /IM CyberStation.exe /F
+echo Killed CyberStation.exe Successfully & echo.
