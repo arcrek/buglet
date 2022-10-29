@@ -1,6 +1,6 @@
 @echo off
 
-title "BugLet script  -  fb.com/nguyendangdat.spt"
+title "BugLet Script"
 mode con lines=30 cols=115
 chcp 65001 >nul
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
